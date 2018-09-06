@@ -7,4 +7,4 @@ int main (void)
     printf("I am %.lf percent ready to move on ", 99.9);
     printf("to the next chapter!\n");
     return 0;
-}
+} //close program
